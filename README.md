@@ -15,5 +15,6 @@ tested by triggering it and the notifications were received on the App. Overall,
 Doorbell was working without any delays and the entire system was very responsive.
 
 ----------------------------------------------------------------------------------------------
-*******************Refer to the Project Report in the Docs for more details.******************
+-------------------Refer to the Project Report in the Docs for more details.------------------
 ----------------------------------------------------------------------------------------------
+
